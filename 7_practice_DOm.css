@@ -1,0 +1,19 @@
+div{
+    height:250px;
+    width: 250px;
+    background-color: blue;
+    border:1px solid black;
+    
+}
+.para{
+    height:20px;
+    width: 500px;
+    background-color: green;
+    color: black;
+}
+
+.newPara{
+    height:20px;
+    width: 500px;
+    background-color: red;
+}

@@ -1,0 +1,6 @@
+HIGHER ORDER FUNCTIONS / METHODS...
+
+Higher Order functions is a functions that takes another function as a parameter and 
+returns that value.
+
+1. forEach loop is a higher order functions.

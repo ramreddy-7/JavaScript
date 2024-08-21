@@ -1,0 +1,21 @@
+div{
+    background-color: blue;
+}
+#one{
+          background-color: blueviolet;
+}
+#two{
+    background-color: aqua;
+}
+.header{
+    color: black;
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    color : red;
+    background-color: blue;
+    margin: 20px;
+    border: 5px solid black;
+    text-align: end;
+}
